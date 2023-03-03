@@ -1,5 +1,3 @@
-[![MasterHead](https://imgs.search.brave.com/oHvPe0_0O3uty_M2Cx5tvTX2hhseKpRzFjdgN4KoNxY/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvcHJl/dmlld3MvMDAwLzM0/NC83MzAvb3JpZ2lu/YWwvd2ViLWRlc2ln/bi1hbmQtZGV2ZWxv/cG1lbnQtYmFubmVy/LWNvbXB1dGVyLXdp/dGgtdG9vbHMtYW5k/LWNvbnN0cnVjdG9y/LXNpdGUtdmVjdG9y/LWZsYXQtaWxsdXN0/cmF0aW9uLmpwZw)](roshanpujara.com.np)
-
 <h1 align="center">Hi 👋, I'm Roshan Pujara</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 <img align="right" alt="Coding" width="400"
